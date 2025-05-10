@@ -112,4 +112,5 @@ compinit
 
 eval `ssh-agent -s`
 ssh-add
+clear
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
